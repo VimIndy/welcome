@@ -2,11 +2,11 @@ autoscale: true
 theme: Scherzkeks
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 07.2016
+# [fit] [@VimIndy][vimindy] 08.2016
 
 <br>
 
-^ # [fit] :milky_way: spacemacs_ :milky_way:
+# [fit] :milky_way: spacemacs_ :milky_way:
 
 ----
 
@@ -37,33 +37,30 @@ theme: Scherzkeks
 
 ----
 
-:colors PaperColor
+:colors deep-space
 
-![inline](https://camo.githubusercontent.com/fdc744af585a849bbdd4d235db4d0ace6af31157/68747470733a2f2f6e6c6b6e677579656e2e66696c65732e776f726470726573732e636f6d2f323031352f30352f632d6461726b2d73706c69742e706e67)
+![inline](https://raw.githubusercontent.com/tyrannicaltoucan/vim-deep-space/master/screenshot.png)
 
-[NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme)
+[tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) Designed for GUI Vim and 24-bit ('true-color') terminals
 
 ----
 
 Plugins of interest
 
-[Mizuchi/vim-ranger](https://github.com/Mizuchi/vim-ranger)
-[christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
-[tyru/open-browser.vim](https://github.com/tyru/open-browser.vim)
+[janko-m/vim-test](https://github.com/janko-m/vim-test)
+[@vimgifs](https://twitter.com/vimgifs)
 
 ----
 
 ![inline](images/neovim-dot-app.png)
 
-[NeoVim.app](https://github.com/rogual/neovim-dot-app)
-
-----
-
-Oh hey, we've got a logo...
+[neovim/wiki/Related-projects](https://github.com/neovim/neovim/wiki/Related-projects)
 
 ----
 
 ![inline](images/vimindy_logo.png)
+
+Looking for sticker / shirt / etc. sponsors.
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
