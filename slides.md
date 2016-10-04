@@ -1,12 +1,12 @@
 autoscale: true
-theme: Scherzkeks
+theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 08.2016
+# [fit] [@VimIndy][vimindy] 09.2016
 
 <br>
 
-# [fit] :milky_way: spacemacs_ :milky_way:
+# [fit] :book: Vim for Writing :book:
 
 ----
 
@@ -37,24 +37,15 @@ theme: Scherzkeks
 
 ----
 
-:colors deep-space
-
-![inline](https://raw.githubusercontent.com/tyrannicaltoucan/vim-deep-space/master/screenshot.png)
-
-[tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) Designed for GUI Vim and 24-bit ('true-color') terminals
-
-----
-
 Plugins of interest
 
-[janko-m/vim-test](https://github.com/janko-m/vim-test)
-[@vimgifs](https://twitter.com/vimgifs)
+[neomake/neomake](https://github.com/neomake/neomake) for async linting
 
 ----
 
-![inline](images/neovim-dot-app.png)
+# [fit] ![][vim_logo] *8*
 
-[neovim/wiki/Related-projects](https://github.com/neovim/neovim/wiki/Related-projects)
+Coming soon...
 
 ----
 
@@ -73,4 +64,6 @@ Looking for sticker / shirt / etc. sponsors.
 [sixfeetup_logo]: images/sixfeetup_logo.png
 [its]: https://twitter.com/invistigersound
 [its_logo]: images/its_logo.jpg
+[vim]: https://vim.org
+[vim_logo]: images/vim_logo.png
 [//]: # ( ------------------------------------------------------------------- )
