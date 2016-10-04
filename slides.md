@@ -2,11 +2,11 @@ autoscale: true
 theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 09.2016
+# [fit] [@VimIndy][vimindy] 10.2016
 
 <br>
 
-# [fit] :book: Vim for Writing :book:
+# [fit] :golf: VimGolf.com :golf:
 
 ----
 
@@ -37,15 +37,24 @@ theme: Fira, 6
 
 ----
 
-Plugins of interest
+Plugins of interest (async edition)
 
-[neomake/neomake](https://github.com/neomake/neomake) for async linting
+[mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) Use any of {ack,ag,pt,rg,git grep}
+[maralla/validator.vim](https://github.com/maralla/validator.vim) Async linter
+[w0rp/ale](https://github.com/w0rp/ale) ALE - Async Lint Engine
+[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) Output shell command to quickfix
+
+----
+
+# [fit] ![][neovim_logo]
+
+Neovim **0.1.5** Is here!
 
 ----
 
 # [fit] ![][vim_logo] *8*
 
-Coming soon...
+Is here :tada:
 
 ----
 
@@ -66,4 +75,5 @@ Looking for sticker / shirt / etc. sponsors.
 [its_logo]: images/its_logo.jpg
 [vim]: https://vim.org
 [vim_logo]: images/vim_logo.png
+[neovim_logo]: images/neovim-dot-app.png
 [//]: # ( ------------------------------------------------------------------- )
