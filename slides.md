@@ -2,11 +2,9 @@ autoscale: true
 theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 10.2016
+# [fit] [@VimIndy][vimindy] 11.2016
 
-<br>
-
-# [fit] :golf: VimGolf.com :golf:
+# [fit] ![][vim-logo] vs ![][neovim-logo]
 
 ----
 
@@ -14,19 +12,19 @@ theme: Fira, 6
 
 ----
 
-![inline][smartfile_logo]
+![inline][smartfile-logo]
 
 [@SmartFile][smartfile] provides us with this space and the beer! :office: :beers:
 
 ----
 
-![inline][sixfeetup_logo]
+![inline][sixfeetup-logo]
 
 [@SixFeetUp][sixfeetup] provides us with the pizza! :pizza:
 
 ----
 
-![inline][its_logo]
+![inline][its-logo]
 
 [@InvisTigerSound][its] provides us with AV help! :movie_camera:
 
@@ -37,30 +35,30 @@ theme: Fira, 6
 
 ----
 
-Plugins of interest (async edition)
+Apple killing `<Esc>`?
 
-[mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) Use any of {ack,ag,pt,rg,git grep}
-[maralla/validator.vim](https://github.com/maralla/validator.vim) Async linter
-[w0rp/ale](https://github.com/w0rp/ale) ALE - Async Lint Engine
-[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) Output shell command to quickfix
+Neovim 0.1.6 just dropped.
 
 ----
 
-# [fit] ![][neovim_logo]
 
-Neovim **0.1.5** Is here!
+# [fit] **On** Repeat.
 
-----
+Learn one vim feature this month
 
-# [fit] ![][vim_logo] *8*
-
-Is here :tada:
+by using it repetitiously.
 
 ----
 
-![inline](images/vimindy_logo.png)
+Search **forward** for current **word** using `*` (star)
 
-Looking for sticker / shirt / etc. sponsors.
+Search **backward** for current **word** using `#` (pound)
+
+----
+
+:help *
+:help #
+
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
@@ -68,12 +66,12 @@ Looking for sticker / shirt / etc. sponsors.
 
 [//]: # ( Sponsors                                                            )
 [smartfile]: https://www.smartfile.com/
-[smartfile_logo]: images/smartfile_logo.png
+[smartfile-logo]: images/smartfile_logo.png
 [sixfeetup]: https://www.sixfeetup.com/
-[sixfeetup_logo]: images/sixfeetup_logo.png
+[sixfeetup-logo]: images/sixfeetup_logo.png
 [its]: https://twitter.com/invistigersound
-[its_logo]: images/its_logo.jpg
+[its-logo]: images/its_logo.jpg
 [vim]: https://vim.org
-[vim_logo]: images/vim_logo.png
-[neovim_logo]: images/neovim-dot-app.png
+[vim-logo]: images/vim_logo.png
+[neovim-logo]: images/neovim-dot-app.png
 [//]: # ( ------------------------------------------------------------------- )
