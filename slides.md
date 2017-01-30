@@ -2,9 +2,7 @@ autoscale: true
 theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 11.2016
-
-# [fit] ![][vim-logo] vs ![][neovim-logo]
+# [fit] [@VimIndy][vimindy] 01.2017
 
 ----
 
@@ -35,9 +33,12 @@ theme: Fira, 6
 
 ----
 
-Apple killing `<Esc>`?
+Vim 8 is up to patch level 142.
+Neovim 0.1.7 is out.
 
-Neovim 0.1.6 just dropped.
+----
+
+[brooth/far.vim](https://github.com/brooth/far.vim) **F**ind **A**nd **R**eplace
 
 ----
 
