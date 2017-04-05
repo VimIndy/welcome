@@ -2,6 +2,8 @@ Intro material for [VimIndy][vimindy].
 
 ## 2017
 
+- [April][04.2017]
+- March (Bar Meet)
 - [January][01.2017]
 
 ## 2016
@@ -21,6 +23,7 @@ Intro material for [VimIndy][vimindy].
 [//]: # ( Past Intro Notes                                                    )
 [//]: # ( ------------------------------------------------------------------- )
 
+[04.2017]: https://github.com/VimIndy/welcome/blob/c821a75d3d7204661816dd48aab6dad09ba5fb20/slides.pdf
 [01.2017]: https://github.com/VimIndy/welcome/blob/8b786d6762ad708dd411123e4b601ba530b19295/slides.pdf
 [11.2016]: https://github.com/VimIndy/welcome/blob/7eecfb3c0f39000df194677886d1b6c4525be0c2/slides.pdf
 [10.2016]: https://github.com/VimIndy/welcome/blob/654b930122ba10ee7f73a497bab35d2d2d8728c7/slides.pdf

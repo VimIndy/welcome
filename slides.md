@@ -2,7 +2,7 @@ autoscale: true
 theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 01.2017
+# [fit] [@VimIndy][vimindy] 04.2017
 
 ----
 
@@ -10,9 +10,9 @@ theme: Fira, 6
 
 ----
 
-![inline][smartfile-logo]
+![inline][theironyard-logo]
 
-[@SmartFile][smartfile] provides us with this space and the beer! :office: :beers:
+[@TheIronYard][theironyard] provides us with this space! :office:
 
 ----
 
@@ -33,12 +33,32 @@ theme: Fira, 6
 
 ----
 
-Vim 8 is up to patch level 142.
-Neovim 0.1.7 is out.
+![inline][vimindy-first-tweet]
 
 ----
 
-[brooth/far.vim](https://github.com/brooth/far.vim) **F**ind **A**nd **R**eplace
+# [fit] :tada: VimIndy is
+*more* than
+# [fit] 1 year old! :tada:
+
+----
+
+[These notes][vimindy-welcome] now available on github
+
+List of [past and upcoming talks][vimindy-talks]
+
+----
+
+Practical Vim updated for Vim 8
+
+Learn Vim The Hard Way
+
+----
+
+Plugins of interest
+
+- [w0rp/ale](https://github.com/w0rp/ale) ALE (Asynchronous Lint Engine)
+- [sbdchd/neoformat](https://github.com/sbdchd/neoformat) Neoformat
 
 ----
 
@@ -51,23 +71,39 @@ by using it repetitiously.
 
 ----
 
-Search **forward** for current **word** using `*` (star)
-
-Search **backward** for current **word** using `#` (pound)
+**find** and **till**
 
 ----
 
-:help *
-:help #
+demo
 
+----
+
+**find**
+:help f
+:help F
+
+**till**
+:help t
+:help T
+
+**repeat**
+:help ;
+:help ,
+
+----
+
+Now on with the show :dancer:
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [vimindy]: https://twitter.com/vimindy
+[vimindy-welcome]: https://github.com/VimIndy/welcome
+[vimindy-talks]: https://github.com/VimIndy/talks
 
 [//]: # ( Sponsors                                                            )
-[smartfile]: https://www.smartfile.com/
-[smartfile-logo]: images/smartfile_logo.png
+[theironyard]: https://www.theironyard.com/locations/indianapolis
+[theironyard-logo]: images/theironyard_logo.png
 [sixfeetup]: https://www.sixfeetup.com/
 [sixfeetup-logo]: images/sixfeetup_logo.png
 [its]: https://twitter.com/invistigersound
@@ -75,4 +111,5 @@ Search **backward** for current **word** using `#` (pound)
 [vim]: https://vim.org
 [vim-logo]: images/vim_logo.png
 [neovim-logo]: images/neovim-dot-app.png
+[vimindy-first-tweet]: images/vimindy-first-tweet.png
 [//]: # ( ------------------------------------------------------------------- )
