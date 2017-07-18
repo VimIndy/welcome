@@ -2,11 +2,7 @@ autoscale: true
 theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 06.2017
-
-<br/>
-
-# [fit] :anchor: Navigating Vim :anchor:
+# [fit] [@VimIndy][vimindy] 07.2017
 
 ----
 
@@ -43,14 +39,17 @@ List of [past and upcoming talks][vimindy-talks]
 
 ----
 
-[Neovim 0.2 is out!](https://github.com/neovim/neovim/releases/tag/v0.2.0)
+[Vim adding a terminal?](https://groups.google.com/forum/m/#!topic/vim_dev/Q9gUWGCeTXM)
 
 ----
 
-Plugins of interest
+## Plugins of interest
 
-- [umutcoskun/vim-mule](https://github.com/umutcoskun/vim-mule) Django productivity for vim (think vim-rails)
-- [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) Asynchronous markdown preview
+[noahfrederick/vim-neovim-defaults](https://github.com/noahfrederick/vim-neovim-defaults)
+
+[mhinz/vim-startify](https://github.com/mhinz/vim-startify) Customizable start screen for vim
+
+[proselint](http://proselint.com/) A linter for English prose
 
 ----
 
@@ -63,7 +62,7 @@ by using it repetitiously.
 
 ----
 
-**find** and **till**
+dot `.` single repeat
 
 ----
 
@@ -71,17 +70,7 @@ demo
 
 ----
 
-**find**
-:help f
-:help F
-
-**till**
-:help t
-:help T
-
-**repeat**
-:help ;
-:help ,
+`:h single-repeat`
 
 ----
 
