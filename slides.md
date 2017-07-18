@@ -2,7 +2,11 @@ autoscale: true
 theme: Fira, 6
 
 # [fit] WELCOME!
-# [fit] [@VimIndy][vimindy] 04.2017
+# [fit] [@VimIndy][vimindy] 06.2017
+
+<br/>
+
+# [fit] :anchor: Navigating Vim :anchor:
 
 ----
 
@@ -33,32 +37,20 @@ theme: Fira, 6
 
 ----
 
-![inline][vimindy-first-tweet]
-
-----
-
-# [fit] :tada: VimIndy is
-*more* than
-# [fit] 1 year old! :tada:
-
-----
-
 [These notes][vimindy-welcome] now available on github
 
 List of [past and upcoming talks][vimindy-talks]
 
 ----
 
-Practical Vim updated for Vim 8
-
-Learn Vim The Hard Way
+[Neovim 0.2 is out!](https://github.com/neovim/neovim/releases/tag/v0.2.0)
 
 ----
 
 Plugins of interest
 
-- [w0rp/ale](https://github.com/w0rp/ale) ALE (Asynchronous Lint Engine)
-- [sbdchd/neoformat](https://github.com/sbdchd/neoformat) Neoformat
+- [umutcoskun/vim-mule](https://github.com/umutcoskun/vim-mule) Django productivity for vim (think vim-rails)
+- [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) Asynchronous markdown preview
 
 ----
 
